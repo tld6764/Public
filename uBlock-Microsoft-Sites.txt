@@ -13,9 +13,8 @@ azureedge.net
 azurewebsites.net
 cyberark.com
 file-scheme
-intune.microsoft.com
 live.com
-microsoft.com
+*microsoft.com/*
 microsoftonline.com
 msauth.net
 msftauth.net

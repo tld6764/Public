@@ -1,5 +1,0 @@
-linkedin.com##span:has-text(Promoted):upward(6)
-linkedin.com##.mb2.artdeco-card.launchpad-v2
-linkedin.com##.update-components-promo-v1 > div.display-flex
-linkedin.com###ember348 > div
-
